@@ -63,7 +63,7 @@ public class Book implements Comparable{
     }
 
     public void printInfo() {
-        System.out.println("**** BOOB INFO ****");
+        System.out.println("**** BOOK INFO ****");
         System.out.println(this);
     }
 }
